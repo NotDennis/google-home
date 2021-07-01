@@ -1,0 +1,40 @@
+.logo {
+    height:90px;
+    width:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:16rem;
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    padding:20px;
+    font-size:14px;
+}
+
+.search-box{
+    margin-top:2rem;
+    width:575px;
+    height:40px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:25px;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+.about {
+    position:relative;
+    top:-435px;
+}
+
+.store {
+    position:relative;
+    top:-504.5px;
+    right:-60px;
+}
